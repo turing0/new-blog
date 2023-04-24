@@ -1,0 +1,102 @@
+ {
+  "papers" : [
+    {
+      "id": 1,
+      "date_published": "",
+      "title": "A Fractional-Order SVIR Model with Two- Infection Classes for COVID-19 in India",
+      "authors": "Ekta Jayswal",
+      "journal": "River Publishers",
+      "journal_link": "https://www.riverpublishers.com/",
+      "indexing": "Scopus",
+      "doi": "Not assigned as of now",
+      "abstract": "This paper describes the fractional-order transmission dynamics of the two variants of SARS-CoV-2, for delta and omicron variants are chosen. An SVIR-model is proposed with two infection classes corresponding to the Delta and Omicron variants. The equilibrium points of the model are determined, and the next-generation matrix method is utilized to compute the corresponding basic reproduction number ($R_0$). The local stability conditions of the proposed model are investigated around the equilibrium points using the eigenvalue method. The result shows the model is locally stable if ${R_0} < 1$ and unstable otherwise. The numerical L1 scheme is used to study the memory effect of the virus variants in the suggested model. Further, numerical simulations are provided for a better insight into the proposed model, and relevant findings are displayed graphically. The memory effect graph shows that as memory increases, there is a relative decline in infection cases of each virus variant. The result also shows early recovery in the case of the latter variant, and the intensity of the recovery relatively increases as the number of cases increases.",
+      "link": "",
+      "preprint": "",
+      "issn": ""
+   },
+    {
+      "id": 2,
+      "date_published": "",
+      "title": "Analysis of the Ebola fractional-order model with Caputo-Fabrizio derivative",
+      "authors": "",
+      "journal": "Songklanakarin Journal of Science and Technology (SJST)",
+      "journal_link": "http://www.sjst.psu.ac.th/",
+      "indexing": "Scopus",
+      "issn": "ISSN: 0125-3395 | e-ISSN: 2408-1779",
+      "doi": "Not assigned as of now",
+      "abstract": "This paper uses a fractional-order epidemic model to describe the transmission dynamics of the Ebola virus. The proposed model uses the fractional-order derivative in Caputo-Fabrizio’s sense. It calculates the time-independent solutions of the proposed model, and the next-generation matrix method is used to calculate the basic reproduction number. It obtains the condition for the existence and uniqueness of the solutions of the model. Further, the stability condition for generalized Ulam-Hyers-Rassias stability of the proposed model is obtained. In numerical simulations, it shows how the proposed model’s approximate solution varies for integer and fractional orders. It also shows the behavior of the Ebola infections, deceased and susceptible for various values of the contact rate. To demonstrate efficiency while using less time, CPU time is given in the tabular form.",
+      "link": "will be aviliable soon",
+      "preprint": ""
+    }
+  ],
+  "conferences" : [
+    {
+      "id": 1,
+      "date": "January 31 - February 6, 2022.",
+      "organiser": "Internal Quality Assurance Cell, Gujarat University",
+      "best_paper": "",
+      "title": "IQAC Workshop on Scientific Research Writing",
+      "certificate_link": "https://drive.google.com/file/d/1yYDGSzKSXplMORJA7kboHUoX5_7kQXoH/view?usp=share_link",
+      "slides": ""      
+    },
+    {
+      "id": 2,
+      "date": "February 02, 2022.",
+      "organiser": "Dr. M. Vidyasagar (FRS) SERB, IIT Hyderabad",
+      "best_paper": "",
+      "title": "Learnings from modelling the Delta and Omicron waves in India and elsewhere",
+      "certificate_link": "",
+      "slides": ""      
+    },
+    {
+      "id": 3,
+      "date": "September 10-11, 2022.",
+      "organiser": "Department of Mathematics, Gujarat University",
+      "best_paper": "",
+      "title": "International Conference on Recent Advancements in Graph Theory (ICRAGT-2022)",
+      "certificate_link": "https://drive.google.com/file/d/1DtPmelNDaifZLyQqfbibaBabjfxihQBs/view?usp=share_link",
+      "slides": ""      
+    },
+    {
+      "id": 4,
+      "date": "November 12-13, 2022",
+      "organiser": "Gujarat University, Ahmedabad and Parul University, Vadodara, Gujarat",
+      "best_paper": "yes",
+      "title": "International Conference on Applied Mathematical Sciences (ICAMS-2022)",
+      "certificate_link": "https://drive.google.com/file/d/1gLUfR9z48YPn_tKIfc31tC0_52iDBY7j/view?usp=sharing",
+      "slides": ""      
+    },
+    {
+      "id": 5,
+      "date": "December 19-23, 2022",
+      "organiser": "ABV- Indian Institute of Information Technology and Management, Gwalior",
+      "best_paper": "",
+      "title": "Workshop on Nonlinear Phenomena in Mathematical Biology (WoNPMB-2022)",
+      "certificate_link": "https://drive.google.com/file/d/1DnXy5cBpsaPVeQRfcuXqkuoI-cBUFuSq/view?usp=sharing",
+      "slides": ""      
+    },
+    {
+      "id": 6,
+      "date": "December 27-31, 2022",
+      "organiser": "Deapartment of Mathematics, Goverment Tilak PG College, Katni, MP",
+      "best_paper": "",
+      "title": "International Workshop on Numerical Analysis of Ordinary & Fractional Partial Differential Equations (NAOFPDE-2022)",
+      "certificate_link": "https://drive.google.com/file/d/1HZx9hlk-Yvz1GLgGIHLDxAi1iAi06XYn/view?usp=drivesdk",
+      "slides": ""      
+    },
+    {
+      "id": 7,
+      "date": "January 03, 2023",
+      "organiser": "School of Mathematics and Statistics, Mahatma Gandhi University, Kottayam, India",
+      "title": "International Workshop on Differential Equations & Applications (IWDEA-2023)",
+      "certificate_link": "https://drive.google.com/file/d/11Oae2ZzL4b0AHVI4O3YKRTW1MaPQ_MUH/view?usp=share_link"
+    },
+   {
+      "id": 8,
+      "date": "March 23-25, 2023",
+      "organiser": "Mohandas College of Engineering and Technology, Anad, Nedumangad, Trivandrum, Kerala",
+      "title": "National Conference on Operational Research, Differential Equationss, Numerical Analysis, Computing and Application (CORDENumACA'23)",
+      "certificate_link": ""
+    }
+  ]
+ }
